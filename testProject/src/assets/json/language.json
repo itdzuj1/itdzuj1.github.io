@@ -1,0 +1,20 @@
+[
+  {
+    "firstTitle": "Simple list",
+    "langButton": "Change language",
+    "listTitle": "Random list",
+    "secondTitle": "Language selection",
+    "engButton": "English",
+    "ruButton": "Russian"
+
+  },
+
+  {
+    "firstTitle": "Простой список",
+    "langButton": "Изменить язык",
+    "listTitle": "Случайный список",
+    "secondTitle": "Выбор языка",
+    "engButton": "Английский",
+    "ruButton": "Русский"
+  }
+]
