@@ -10,15 +10,9 @@ export default new Vuex.Store({
   },
 
   actions: {
-    userLogged ({commit}, user) {
-      commit('USER_LOGGED', user)
-    }
   },
 
   mutations: {
-    USER_LOGGED (state, user) {
-      state.user = user
-    },
       langEng: state => state.i = 0,
       langRu: state => state.i = 1
   },
